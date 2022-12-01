@@ -18,5 +18,3 @@ Example:
 1: <a_samp>
 
 2: <a_nifqs>
-
-3: <include>
