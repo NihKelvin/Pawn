@@ -79,7 +79,7 @@ nifqs_Start()
     print("*         @Author        : Kelvin/Nivlekzin         *");
     print("*         @Date          : 07th Dec 2022            *");
     print("*         @Time          : 00h 00m 00s PM           *");
-    print("*         @Update        : 07th Dec 2022            *");
+    print("*         @Update        : 08th Dec 2022            *");
     print("*         @Version       : 1.0.0                    *");
     print("*                                                   *");
     print("*              Created By Nivlekzin :D              *");
