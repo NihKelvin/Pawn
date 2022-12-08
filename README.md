@@ -1,4 +1,4 @@
-### - 1.0.0
+- ### *1.0.0*
 ______________________________________________________________________________
 
 NiFQS is an optimized file query system made specifically for the compiler pawn.
